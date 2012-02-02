@@ -29,16 +29,25 @@ That's it.  You now have a service installed  in the services manager for your a
 ##Web Frameworks
 
 ###Express
-[Express.js](http://expressjs.com/) - Defacto standard
+[Express.js](http://expressjs.com/) - Defacto standard, needs no introduction...
 
 ###Locomotive
-[Locomotive.js](http://locomotivejs.org/)
+[Locomotive.js](http://locomotivejs.org/) - Interesting b/c it's a *VC framework. With Locomotive you choose your ODM. Think Rails w/o Active Record, or MVC3 w/o EF.
 
 ###Railway
-[Railway.js](http://railwayjs.com/#)
+[Railway.js](http://railwayjs.com/#) - Rails on node.js.  'nuff said.
+
 
 ###Flatiron
-[Flatiron.js](http://flatironjs.org/)
+[Flatiron.js](http://flatironjs.org/) - Haven't wrapped my head around this yet, but it's part of a larger suite of tools primarily supported by the nodejitsu folks.
+
+##View Engines
+
+###EJS
+Node's version of ERB.  Ugly but familiar..
+
+###Jade
+Node's version of HAML, only better. 
 
 ##Databases
 
